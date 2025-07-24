@@ -84,8 +84,7 @@ cd projeto-estatistica
 ## Execução e Uso
 Executando a Interface Principal
 Para iniciar a interface do projeto e explorar os cálculos estatísticos:
-`python index.py
-`
+`python mvp.py`
 
 ## Executando o Quiz de Estatística
 O quiz interativo é uma ótima maneira de testar seus conhecimentos em estatística:
