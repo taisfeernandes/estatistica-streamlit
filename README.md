@@ -1,7 +1,6 @@
 ## Projeto de Estatística - Análise Descritiva e Inferencial
 Este repositório contém um projeto de análise estatística desenvolvido em Python. O objetivo é fornecer uma ferramenta educacional que aborda tanto estatísticas descritivas quanto inferenciais, com uma aplicação prática e visual para facilitar a compreensão dos conceitos.
 
-[**Acesse o App**](https://projeto-estatisticaa.streamlit.app/)
 
 ## Sumário
 - Introdução
